@@ -86,6 +86,6 @@ class TestCalc:
     #     # assert 3==self.calc.add1(1,2)
     #     # assert 0==self.calc.add(-1,1)
     #     a = 1
-    #     b = 1
-    #     expect = 2
+    #     b = 2
+    #     expect = 3
     #     steps(get_calc, a, b, expect)
